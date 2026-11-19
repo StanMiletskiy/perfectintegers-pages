@@ -1,0 +1,28 @@
+# perfect.{integers}
+
+> perfect.{integers} is a custom software development studio building web platforms, document experiences and native mobile applications for clients in Europe, the United States and Asia.
+
+## Core expertise
+
+- Custom PHP web systems, Symfony-based backends and REST/JSON APIs
+- Drupal development, custom modules, data migrations and decoupled or headless Drupal architectures
+- Modern JavaScript and TypeScript frontends, embeddable interfaces and partner integrations
+- Advanced PDF.js viewers, PDF rendering, annotations, accessible document workflows and embeddable document experiences
+- Native iOS development with Swift, SwiftUI, UIKit and Objective-C
+- Native Android development with Kotlin, Jetpack Compose and Android SDK
+- Mapbox SDK integrations, route planning, mapping and offline mobile workflows
+- Practical AI integration and AI-assisted software delivery
+
+## Selected experience
+
+- End-to-end backend, frontend, PDF.js and partner integration engineering for an award-recognised US civic technology platform selected among the GovTech 100.
+- Native iOS and Android applications for a German multi-stop route planning product using modern Swift and Kotlin frameworks, native platform APIs and Mapbox SDKs.
+
+## Team and commercial model
+
+The senior team is led by founder Stanislav Miletskii, who has more than 15 years of experience in custom software delivery and team management. Engagements start from EUR 35 per hour depending on complexity.
+
+## Contact
+
+Email: hi@perfectintegers.com
+Website: https://perfectintegers.com/
