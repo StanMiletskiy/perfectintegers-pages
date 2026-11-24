@@ -4,6 +4,8 @@ Source code for the public website at [perfectintegers.com](https://perfectinteg
 
 The site is static HTML and CSS, published with GitHub Pages. It does not use WordPress or server-side code.
 
+The [subtitle sync page](https://perfectintegers.com/subsync/) serves the standalone Cueframe release from [StanMiletskiy/subsync](https://github.com/StanMiletskiy/subsync). To update it, copy that project’s built `docs/index.html` to `subsync/index.html` in the source and deployment repositories.
+
 ## Local development
 
 Run any local static server from the repository root, for example:
